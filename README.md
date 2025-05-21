@@ -1,3 +1,4 @@
+![architecture_diagram](https://github.com/user-attachments/assets/b1249de9-eb82-437b-98ae-dc200835600e)
 # Real-Time Payment Alert System
 
 A serverless system that instantly notifies users of payment transactions via SMS or email, using AWS Lambda, SNS, and API Gateway.
