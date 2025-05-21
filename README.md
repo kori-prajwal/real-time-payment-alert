@@ -24,7 +24,8 @@ A serverless system that instantly notifies users of payment transactions via SM
 
 ## 📐 Architecture Overview
 
-<!-- Architecture diagram will be added soon -->
+![Architecture Diagram](architecture_diagram.png)
+
 
 1. User triggers a payment event.
 2. AWS API Gateway receives the event and invokes the Lambda function.
